@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "argus-demo"
+version = "0.1.0"
+description = "Minimal demo of argumentation-based minimal-change repair of LLM self-explanations"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Yifan Xiao" }]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["argus"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
