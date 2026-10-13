@@ -82,7 +82,6 @@ tests/         semantics, verification, operations, repair minimality, pipeline
   author    = {Xiao, Yifan and Li, Shijie},
   booktitle = {Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026)},
   series    = {Proceedings of Machine Learning Research},
-  volume    = {245},
   year      = {2026},
   publisher = {PMLR}
 }
