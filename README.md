@@ -76,14 +76,22 @@ tests/         semantics, verification, operations, repair minimality, pipeline
 
 ## Citation
 
+If you use this code, please cite the paper:
+
 ```bibtex
-@inproceedings{xiao2026argus,
-  title     = {{ARGUS}: Argumentation-Based Minimal-Change Repair for Verifiable {LLM} Self-Explanations},
-  author    = {Xiao, Yifan and Li, Shijie},
-  booktitle = {Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026)},
-  series    = {Proceedings of Machine Learning Research},
-  year      = {2026},
-  publisher = {PMLR}
+@InProceedings{xiao2026argus,
+  title = 	 {ARGUS: Argumentation-Based Minimal-Change Repair for Verifiable {LLM} Self-Explanations},
+  author =       {Xiao, Yifan and Li, Shijie},
+  booktitle = 	 {Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence},
+  pages = 	 {7536--7551},
+  year = 	 {2026},
+  editor = 	 {Perković, Emilija and Malinsky, Daniel},
+  volume = 	 {337},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--21 Aug},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v337/main/assets/xiao26a/xiao26a.pdf},
+  url = 	 {https://proceedings.mlr.press/v337/xiao26a.html},
 }
 ```
 
