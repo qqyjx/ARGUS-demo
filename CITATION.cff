@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "ARGUS: Argumentation-Based Minimal-Change Repair for Verifiable LLM Self-Explanations"
+authors:
+  - family-names: "Xiao"
+    given-names: "Yifan"
+  - family-names: "Li"
+    given-names: "Shijie"
+license: MIT
+repository-code: "https://github.com/qqyjx/ARGUS-demo"
+url: "https://proceedings.mlr.press/v337/xiao26a.html"
+preferred-citation:
+  type: conference-paper
+  title: "ARGUS: Argumentation-Based Minimal-Change Repair for Verifiable LLM Self-Explanations"
+  authors:
+    - family-names: "Xiao"
+      given-names: "Yifan"
+    - family-names: "Li"
+      given-names: "Shijie"
+  editors:
+    - family-names: "Perković"
+      given-names: "Emilija"
+    - family-names: "Malinsky"
+      given-names: "Daniel"
+  collection-title: "Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence"
+  collection-type: proceedings
+  volume: 337
+  publisher:
+    name: "PMLR"
+  start: 7536
+  end: 7551
+  year: 2026
+  date-published: 2026-08-06
+  url: "https://proceedings.mlr.press/v337/xiao26a.html"
